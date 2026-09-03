@@ -198,7 +198,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>Peppermint Robotics Fleet Management Dashboard</h1>
+        <h1>Dashboard</h1>
       </header>
       <main>
         <ReplayControls
